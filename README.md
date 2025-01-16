@@ -12,7 +12,7 @@ This project is a Python web application that serves static files, saves data to
 ├── storage
 │   └── data.json
 └── templates
-    └── log.html
+└── log.html
 ```
 
 ## Running the Project
