@@ -5,18 +5,14 @@ This project is a Python web application that serves static files, saves data to
 ## Project Structure
 
 ```sh
-/goit-pythonweb-hw-03-python-web
-├── app
-│ ├── **init**.py
-│ ├── routes.py
-│ ├── storage.py
-│ └── templates
-│ └── log.html
+/goit-pythonweb-hw-03
 ├── Dockerfile
 ├── main.py
 ├── requirements.txt
-└── storage
-└── data.json
+├── storage
+│   └── data.json
+└── templates
+    └── log.html
 ```
 
 ## Running the Project
