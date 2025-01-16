@@ -4,6 +4,7 @@ This project is a Python web application that serves static files, saves data to
 
 ## Project Structure
 
+```sh
 /goit-pythonweb-hw-03-python-web
 ├── app
 │ ├── **init**.py
@@ -16,6 +17,7 @@ This project is a Python web application that serves static files, saves data to
 ├── requirements.txt
 └── storage
 └── data.json
+```
 
 ## Running the Project
 
